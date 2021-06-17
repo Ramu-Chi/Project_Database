@@ -1,0 +1,761 @@
+﻿seller_id,skill_name
+2,Mobile Apps
+2,Desktop Application
+6,Game Development
+7,Desktop Application
+8,Subtitles & Captions
+9,Pixel Animation
+9,Desktop Application
+10,Social Media Copy
+10,eLearning Content Development
+11,Research & Summaries
+16,Digital Artwork
+16,Translation
+20,Card Design
+20,Intros & Outros
+20,Photoshop
+21,Illustration
+22,Game Development
+22,Subtitles & Captions
+28,Drawing
+28,Pixel Animation
+28,Digital Artwork
+31,Screencasting Videos
+31,Vocal Tuning
+33,Brand Voice & Tone
+33,Adobe Illustrator
+33,DJ Mixing
+35,Adobe Illustrator
+35,Logo Animation
+40,Web Developing
+43,Voice Over
+43,Game Design
+46,Drone Videography
+46,Podcast Editing
+46,Java & Javascript
+47,Video Editing
+48,Photoshop
+48,Drawing
+50,Game Development
+54,Intros & Outros
+54,Mobile Apps
+56,Drone Videography
+56,Pixel Animation
+56,Chatbots
+57,Voice Over
+57,3D Production Animation
+60,Photo Editing
+60,Cybersecurity & Data Protection
+60,Article to Video
+64,Beta Reading
+64,Chatbots
+68,Social Media Copy
+68,Video Editing
+68,DJ Mixing
+72,Vocal Tuning
+72,Creative Writing
+75,Adobe Illustrator
+75,Animated GIFs
+75,Sketching
+79,Social Media Copy
+82,Podcast Editing
+82,UX Writing
+82,Photo Editing
+85,Music Transcription
+85,Digital Artwork
+85,Subtitles & Captions
+95,Drawing
+95,Beta Reading
+95,Java & Javascript
+97,3D Production Animation
+97,Convert Files
+98,Sketching
+98,eLearning Content Development
+99,Photo Editing
+101,Web Developing
+101,Character Design
+101,Game Design
+105,Web Developing
+105,Songwriters
+105,Voice Over
+107,Podcast Editing
+107,Sound Design
+107,Web Design
+113,Game Development
+113,Mobile Apps
+116,Card Design
+116,Podcast Writing
+117,Adobe Illustrator
+117,Photo Editing
+117,Logo Animation
+121,Photo Editing
+121,Illustration
+123,Music Transcription
+126,Mobile Apps
+127,Jquery
+127,Drone Videography
+127,Adobe Illustrator
+128,UX Writing
+128,Web Developing
+128,eLearning Content Development
+129,Brand Voice & Tone
+129,Character Animation
+129,Pixel Animation
+136,UX Writing
+137,Game Development
+138,Digital Artwork
+147,Creative Writing
+148,Ux Design
+148,Web Design
+149,Logo Animation
+152,Producers & Composers
+152,Character Animation
+152,Game Design
+153,Translation
+153,Web Design
+153,Creative Writing
+154,Drone Videography
+154,Producers & Composers
+154,Game Trailers
+155,Audio Ads Production
+157,Portrait Artist
+157,Press Releases
+162,Cybersecurity & Data Protection
+162,Logo Design
+162,Mobile Apps
+163,Graphic Design
+163,Character Animation
+163,Audio Ads Production
+164,Desktop Application
+165,Web Design
+165,Music Transcription
+166,Logo Design
+166,Website Content
+168,Beat Making
+168,Screencasting Videos
+168,Research & Summaries
+172,Digital Artwork
+172,Music Transcription
+174,Vocal Tuning
+175,Logo Animation
+175,Book & eBook Writing
+177,Music Transcription
+177,Press Releases
+185,Card Design
+188,Press Releases
+188,Ux Design
+190,Graphic Design
+192,Web Developing
+193,Adobe Photoshop
+193,Cybersecurity & Data Protection
+193,Digital Artwork
+196,Social Media Copy
+196,Spokespersons Videos
+198,Pixel Animation
+199,eLearning Content Development
+199,Press Releases
+201,Character Animation
+201,Logo Design
+202,Character Animation
+202,Game Design
+202,Music Transcription
+203,Game Development
+204,Creative Writing
+204,Mobile Apps
+208,Java & Javascript
+208,Podcast Editing
+208,Article to Video
+211,Character Animation
+212,Book & eBook Writing
+212,3D Production Animation
+212,Web Design
+213,Drone Videography
+213,eLearning Content Development
+213,UX Writing
+217,Adobe Photoshop
+217,Producers & Composers
+221,Animated GIFs
+221,Mobile Apps
+222,Game Design
+222,Intros & Outros
+225,Sketching
+225,Podcast Writing
+225,Music Transcription
+226,Java & Javascript
+226,Brand Voice & Tone
+226,Visual Effects
+230,Adobe Photoshop
+230,Vocal Tuning
+234,Podcast Writing
+235,Web Design
+235,Chatbots
+238,Vocal Tuning
+243,Illustration
+243,Card Design
+246,Screencasting Videos
+246,Vocal Tuning
+246,Podcast Writing
+248,Web Design
+248,Subtitles & Captions
+248,Cybersecurity & Data Protection
+249,Podcast Writing
+251,Podcast Writing
+251,Drawing
+252,Java & Javascript
+252,Portrait Artist
+252,Convert Files
+254,Character Animation
+257,Translation
+257,Beat Making
+257,Book Editing
+258,Translation
+258,Graphic Design
+260,Drawing
+261,Social Media Copy
+261,Producers & Composers
+264,Adobe Illustrator
+264,Creative Writing
+264,Book & eBook Writing
+265,Video Editing
+272,Brand Voice & Tone
+272,Ux Design
+272,Voice Over
+275,Sound Design
+275,Web Design
+276,Producers & Composers
+276,Voice Over
+277,Drone Videography
+277,Music Transcription
+277,Beat Making
+281,Adobe Illustrator
+281,Convert Files
+284,Video Editing
+286,Producers & Composers
+286,Songwriters
+286,Visual Effects
+288,Vocal Tuning
+289,Photoshop
+289,Video Editing
+289,Digital Artwork
+291,Photo Editing
+291,Beat Making
+291,Vocal Tuning
+293,Character Animation
+299,Intros & Outros
+301,Adobe Photoshop
+304,Visual Effects
+305,Photoshop
+305,Animated GIFs
+305,Book Editing
+306,Audio Ads Production
+306,Logo Design
+306,Book & eBook Writing
+307,Songwriters
+313,Voice Over
+313,Convert Files
+313,Video Editing
+315,Podcast Writing
+315,Intros & Outros
+315,DJ Mixing
+318,Brand Voice & Tone
+319,Article to Video
+319,Social Media Copy
+320,DJ Mixing
+321,Beta Reading
+321,Sketching
+322,Card Design
+322,Pixel Animation
+322,Social Media Copy
+330,Sketching
+330,Research & Summaries
+338,Game Design
+338,Photo Editing
+340,Logo Animation
+345,Subtitles & Captions
+345,Creative Writing
+345,Game Design
+346,Producers & Composers
+346,Card Design
+349,eLearning Content Development
+349,Web Developing
+349,Vocal Tuning
+357,Voice Over
+363,Logo Design
+363,Songwriters
+365,Audio Ads Production
+365,Desktop Application
+366,Subtitles & Captions
+366,Creative Writing
+369,Intros & Outros
+370,Ux Design
+372,Brand Voice & Tone
+372,Drawing
+374,Web Design
+374,Vocal Tuning
+375,Logo Animation
+380,Video Editing
+381,Game Development
+381,Video Editing
+387,Drawing
+387,Intros & Outros
+387,UX Writing
+388,Social Media Copy
+388,Photo Editing
+390,Beat Making
+391,Video Editing
+391,Game Design
+391,DJ Mixing
+394,3D Production Animation
+394,Vocal Tuning
+396,Logo Animation
+396,Web Developing
+396,Adobe Illustrator
+397,Book & eBook Writing
+401,Research & Summaries
+402,Press Releases
+407,eLearning Content Development
+407,Card Design
+410,Digital Artwork
+414,Desktop Application
+416,Research & Summaries
+417,Chatbots
+417,Photo Editing
+419,Game Development
+419,Desktop Application
+425,Visual Effects
+426,Game Development
+428,Creative Writing
+428,Songwriters
+429,Translation
+429,Digital Artwork
+429,Ux Design
+435,Research & Summaries
+435,Voice Over
+435,Singers & Vocalists
+438,Chatbots
+440,Photo Editing
+440,Article to Video
+441,Research & Summaries
+442,Video Editing
+442,Subtitles & Captions
+447,Songwriters
+447,Card Design
+448,Beat Making
+448,Voice Over
+448,Game Design
+457,Social Media Copy
+458,Card Design
+458,Producers & Composers
+458,Sketching
+459,Animated GIFs
+459,Creative Writing
+462,Screencasting Videos
+462,Drawing
+465,Intros & Outros
+465,Logo Design
+466,Beat Making
+466,Creative Writing
+466,Social Media Copy
+469,UX Writing
+469,Logo Design
+470,Voice Over
+470,Chatbots
+470,eLearning Content Development
+471,Card Design
+472,Voice Over
+472,Drawing
+474,Cybersecurity & Data Protection
+474,Podcast Editing
+474,Logo Animation
+476,Java & Javascript
+476,Ux Design
+480,Drone Videography
+481,UX Writing
+481,Adobe Illustrator
+481,Drone Videography
+482,Subtitles & Captions
+482,Spokespersons Videos
+484,Mobile Apps
+484,Graphic Design
+484,Audio Ads Production
+485,Card Design
+485,Drawing
+485,Singers & Vocalists
+486,Video Editing
+486,Brand Voice & Tone
+488,Desktop Application
+488,Vocal Tuning
+488,UX Writing
+492,Press Releases
+492,Article to Video
+492,3D Production Animation
+496,Web Developing
+496,Sketching
+497,Web Developing
+497,Cybersecurity & Data Protection
+498,Logo Animation
+498,Illustration
+498,Mobile Apps
+499,Photo Editing
+499,Website Content
+503,Character Design
+503,Drawing
+503,Voice Over
+511,Convert Files
+512,eLearning Content Development
+512,Character Animation
+514,Podcast Editing
+514,Voice Over
+514,Mobile Apps
+515,Podcast Writing
+515,Web Developing
+515,Character Animation
+516,Pixel Animation
+516,Game Development
+516,Java & Javascript
+520,Drone Videography
+523,Illustration
+523,Jquery
+527,Illustration
+530,Drawing
+531,Intros & Outros
+532,Web Design
+533,Press Releases
+533,Cybersecurity & Data Protection
+533,Producers & Composers
+534,Sketching
+536,Producers & Composers
+538,Music Transcription
+538,eLearning Content Development
+539,Sketching
+540,Logo Design
+543,Voice Over
+543,Illustration
+543,Graphic Design
+545,Pixel Animation
+547,UX Writing
+556,Voice Over
+557,Chatbots
+557,Game Development
+558,Jquery
+558,UX Writing
+558,Portrait Artist
+563,Visual Effects
+563,Press Releases
+564,Logo Design
+565,Jquery
+565,eLearning Content Development
+567,Illustration
+567,Pixel Animation
+567,Game Trailers
+568,UX Writing
+571,Animated GIFs
+571,Website Content
+572,Logo Design
+572,Drone Videography
+578,Illustration
+578,Subtitles & Captions
+580,Audio Ads Production
+580,Sound Design
+588,Voice Over
+588,Creative Writing
+588,Logo Design
+591,Desktop Application
+591,Subtitles & Captions
+595,Podcast Editing
+596,Photo Editing
+598,Photoshop
+598,Java & Javascript
+600,Logo Animation
+600,Beta Reading
+601,Graphic Design
+602,Songwriters
+603,Creative Writing
+603,Graphic Design
+603,Singers & Vocalists
+606,Java & Javascript
+607,Sketching
+607,Web Developing
+610,Podcast Editing
+610,DJ Mixing
+613,Cybersecurity & Data Protection
+618,Game Design
+620,Translation
+620,Beta Reading
+626,Spokespersons Videos
+626,Translation
+628,Illustration
+628,Article to Video
+628,Sketching
+631,Logo Animation
+632,Music Transcription
+636,Songwriters
+636,Convert Files
+638,Game Development
+639,Game Trailers
+639,Drone Videography
+639,Photo Editing
+643,Sound Design
+643,Jquery
+643,Animated GIFs
+645,Cybersecurity & Data Protection
+645,Press Releases
+645,Chatbots
+648,Website Content
+654,Spokespersons Videos
+654,Drone Videography
+656,Web Developing
+656,Book & eBook Writing
+656,Character Animation
+661,Desktop Application
+661,Game Trailers
+661,Animated GIFs
+667,Video Editing
+667,Pixel Animation
+668,Java & Javascript
+668,Creative Writing
+668,Article to Video
+669,Singers & Vocalists
+669,Portrait Artist
+671,Music Transcription
+673,Drawing
+673,Sound Design
+673,3D Production Animation
+675,Intros & Outros
+676,Website Content
+676,Game Trailers
+681,Jquery
+681,Visual Effects
+681,Game Development
+684,Sound Design
+684,Graphic Design
+686,Java & Javascript
+687,Chatbots
+687,Beat Making
+689,Website Content
+689,Game Design
+690,Singers & Vocalists
+692,Web Design
+692,Logo Animation
+693,Songwriters
+699,Digital Artwork
+699,Beta Reading
+699,Spokespersons Videos
+702,Vocal Tuning
+704,Game Trailers
+704,Singers & Vocalists
+705,Translation
+705,Game Design
+707,Drone Videography
+707,Jquery
+709,Logo Animation
+709,DJ Mixing
+712,Screencasting Videos
+716,eLearning Content Development
+716,Voice Over
+717,Songwriters
+717,Logo Design
+717,Voice Over
+720,Chatbots
+720,Adobe Illustrator
+720,Desktop Application
+722,Beat Making
+722,Brand Voice & Tone
+729,Podcast Writing
+731,Graphic Design
+731,Voice Over
+731,Pixel Animation
+734,Game Design
+734,Chatbots
+734,Website Content
+746,Cybersecurity & Data Protection
+751,Singers & Vocalists
+751,Logo Animation
+753,Subtitles & Captions
+753,Portrait Artist
+753,Translation
+754,Sketching
+754,UX Writing
+755,Web Developing
+755,Sound Design
+755,Game Design
+764,Desktop Application
+770,Producers & Composers
+770,Songwriters
+772,Digital Artwork
+772,Beta Reading
+772,Web Design
+774,Game Design
+777,Audio Ads Production
+782,Digital Artwork
+782,Press Releases
+782,eLearning Content Development
+785,Graphic Design
+785,Mobile Apps
+785,Cybersecurity & Data Protection
+786,Screencasting Videos
+788,Cybersecurity & Data Protection
+788,Character Animation
+789,Vocal Tuning
+789,eLearning Content Development
+797,Brand Voice & Tone
+797,Music Transcription
+799,UX Writing
+799,Portrait Artist
+799,Podcast Writing
+803,Video Editing
+807,Ux Design
+808,Photoshop
+810,Java & Javascript
+811,Brand Voice & Tone
+811,Audio Ads Production
+812,Character Animation
+812,Game Development
+816,Pixel Animation
+816,Website Content
+817,Social Media Copy
+817,Illustration
+818,Sound Design
+820,Beta Reading
+820,Game Trailers
+820,Game Development
+821,Podcast Writing
+821,Beta Reading
+821,Character Design
+823,Screencasting Videos
+828,Podcast Editing
+828,Voice Over
+833,Adobe Illustrator
+833,Illustration
+835,Jquery
+835,DJ Mixing
+835,Screencasting Videos
+837,Sketching
+837,Logo Design
+837,Illustration
+840,Logo Animation
+840,Character Animation
+841,Web Developing
+841,Intros & Outros
+841,Adobe Illustrator
+844,Logo Animation
+844,3D Production Animation
+849,Video Editing
+849,Website Content
+849,Web Design
+857,Beta Reading
+859,Creative Writing
+859,Convert Files
+863,Spokespersons Videos
+863,Creative Writing
+864,Music Transcription
+868,Photoshop
+868,Creative Writing
+871,3D Production Animation
+873,Social Media Copy
+873,Singers & Vocalists
+875,Illustration
+875,Drawing
+875,Website Content
+876,Songwriters
+880,Character Animation
+880,UX Writing
+880,Portrait Artist
+883,Intros & Outros
+884,Web Developing
+884,Website Content
+887,Web Developing
+887,Graphic Design
+890,Pixel Animation
+890,Press Releases
+892,Music Transcription
+892,Research & Summaries
+892,Cybersecurity & Data Protection
+893,3D Production Animation
+896,Photo Editing
+896,Audio Ads Production
+897,Drawing
+899,Game Development
+900,Game Design
+900,Drone Videography
+907,Podcast Writing
+907,Adobe Photoshop
+907,Book & eBook Writing
+910,Game Trailers
+912,Book Editing
+912,Digital Artwork
+912,Translation
+917,Photoshop
+917,Java & Javascript
+917,Digital Artwork
+919,Digital Artwork
+919,Brand Voice & Tone
+920,UX Writing
+920,Book Editing
+921,Ux Design
+921,Graphic Design
+921,Pixel Animation
+922,Podcast Writing
+922,Book & eBook Writing
+922,Pixel Animation
+923,Podcast Editing
+923,Spokespersons Videos
+924,Convert Files
+925,Voice Over
+925,Intros & Outros
+929,Drawing
+930,Beat Making
+931,Game Development
+931,Adobe Photoshop
+931,Card Design
+932,Drawing
+932,Singers & Vocalists
+932,Jquery
+938,Desktop Application
+938,Chatbots
+943,Research & Summaries
+943,Mobile Apps
+944,Voice Over
+947,Convert Files
+947,Game Development
+947,Photoshop
+948,Photoshop
+949,Logo Design
+949,Portrait Artist
+949,Ux Design
+956,Adobe Photoshop
+956,Music Transcription
+957,Screencasting Videos
+960,Logo Design
+960,Digital Artwork
+960,3D Production Animation
+962,Social Media Copy
+962,Adobe Photoshop
+962,Spokespersons Videos
+965,Drawing
+966,Press Releases
+966,Chatbots
+967,Video Editing
+967,Songwriters
+968,Adobe Illustrator
+968,eLearning Content Development
+972,Game Trailers
+972,Beat Making
+976,Sound Design
+976,Subtitles & Captions
+976,Graphic Design
+978,Intros & Outros
+978,Card Design
+978,Character Design
+979,Portrait Artist
+981,Video Editing
+981,Graphic Design
+982,Logo Animation
+984,Voice Over
+984,Beat Making
+984,Producers & Composers
+985,Drawing
+985,DJ Mixing
+989,Convert Files
+989,eLearning Content Development
+989,Pixel Animation
